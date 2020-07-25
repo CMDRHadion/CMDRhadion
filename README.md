@@ -1,5 +1,5 @@
 ## Hi there 👋
-### My Name's Matt; but, as you could probably guess, that username was taken by the time I came arround these parts, so I used my old callsign from Elite: Dangerous instead.
+### My Name's Matt; but, as you could probably guess, that username was taken by the time I came around these parts, so I used my old callsign from Elite: Dangerous instead.
 ### Feel free to check out what I'm working on!
 
 <!--
